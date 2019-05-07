@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="fragment_about_tag">About Fragment</string>
+    <string name="fragment_list_tag">List Fragment</string>
+
+</resources>
